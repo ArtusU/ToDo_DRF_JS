@@ -2,6 +2,23 @@
 # Created by https://www.toptal.com/developers/gitignore/api/django,virtualenv,vscode
 # Edit at https://www.toptal.com/developers/gitignore?templates=django,virtualenv,vscode
 
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
 ### Django ###
 *.log
 *.pot
